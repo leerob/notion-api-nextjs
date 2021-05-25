@@ -16,8 +16,7 @@ export default function Home({ books }) {
         <h1 className={styles.title}>Notion + Next.js</h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          These books come from my Notion document.
         </p>
 
         <div className={styles.grid}>
