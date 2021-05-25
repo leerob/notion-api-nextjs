@@ -1,5 +1,9 @@
 # Notion API + Next.js
 
+To see a more complete example, check out [this Notion + Next.js blog](https://github.com/samuelkraft/notion-blog-nextjs). The rest of this repo is the contents from a live stream.
+
+---
+
 First, run the development server:
 
 ```bash
